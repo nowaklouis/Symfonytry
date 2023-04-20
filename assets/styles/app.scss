@@ -1,0 +1,9 @@
+body {
+  background-color: grey;
+  color: orangered;
+}
+
+$primary: #53c34d;
+$danger: #ff4136;
+
+@import "bootstrap";
